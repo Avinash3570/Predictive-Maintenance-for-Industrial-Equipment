@@ -18,6 +18,12 @@ Welcome to the Predictive Maintenance Dashboard! This interactive application of
 - Seaborn
 - scikit-learn
 
+![img_1](https://github.com/user-attachments/assets/dd095754-c6a8-4888-8c59-8cee2face659)
+![img_2](https://github.com/user-attachments/assets/491d3f13-f898-4d42-8f64-eabf2ee372bc)
+![img_4](https://github.com/user-attachments/assets/71840e10-cd54-49e7-a081-2001068d76c1)
+![img_3](https://github.com/user-attachments/assets/a4d587bb-6dc4-49f6-819a-798f55edf459)
+![img_5](https://github.com/user-attachments/assets/41fbe177-f7f6-486e-8f41-9a4a90b9288a)
+![img_6](https://github.com/user-attachments/assets/a793e500-4a19-448a-b6fa-4b375ac80796)
 
 
 
